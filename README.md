@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on ML projects
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on Python projects
+🔭 I’m currently working on Spring Boot,ML projects
+- 🌱 I’m currently learning Java with ML 
+- 👯 I’m looking to collaborate on Spring boot projects
 
 
 
