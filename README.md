@@ -1,20 +1,16 @@
-### Hi there 👋
+###💫 About Me
 
-<!--
-**Stack64/Stack64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-💫 About Me
+##🔭 I’m currently working on Full Stack projects, building scalable applications with modern Java and Spring Boot.
+##🌱 I’m continuously learning and expanding my skills in Java (Java 17), Spring Boot, and advanced backend technologies.
+##👯 I’m open to collaborating on Spring Boot and microservices-based projects, especially those focused on real-world problem solving.
+##💼 Currently working as an SDE 1, contributing to an Attendance Marking System App, where I work with:
+#1. Spring MVC & Spring Boot for backend services
+#2. PostgreSQL & Oracle Server for databases
+#3. Apache Kafka for event-driven communication
+#4. Hazelcast for distributed caching
+#5. CI/CD pipelines for streamlined deployment
 
-🔭 I’m currently working on Full Stack projects, building scalable applications with modern Java and Spring Boot.
-🌱 I’m continuously learning and expanding my skills in Java (Java 17), Spring Boot, and advanced backend technologies.
-👯 I’m open to collaborating on Spring Boot and microservices-based projects, especially those focused on real-world problem solving.
-💼 Currently working as an SDE 1, contributing to an Attendance Marking System App, where I work with:
-Spring MVC & Spring Boot for backend services
-PostgreSQL & Oracle Server for databases
-Apache Kafka for event-driven communication
-Hazelcast for distributed caching
-CI/CD pipelines for streamlined deployment
-
-⚡ Passionate about scalable backend systems, distributed architectures, and clean code.
+##⚡ Passionate about scalable backend systems, distributed architectures, and clean code.
 
 
 
