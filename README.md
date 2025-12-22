@@ -3,22 +3,24 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Sohail%20&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Sohail%20&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-
+<a href="https://github.com/stack64">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building%20scalable%20backend%20systems%20with%20Java%20%26%20Spring%20Boot" alt="Typing SVG" />
+</a>
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Software-70a5fd?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/4+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/Focus-Software-58a6ff?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/4+_Years-On_GitHub-58a6ff?style=for-the-badge" alt="years"/>
   
-  <img src="https://komarev.com/ghpvc/?username=stack64&style=for-the-badge&color=70a5fd" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=stack64&style=for-the-badge&color=58a6ff" alt="views"/>
 </p>
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://www.linkedin.com/in/sohaailkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:user.stack64@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+<a href="https://www.linkedin.com/in/sohaailkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://x.com/Sohaailkhann"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> <a href="https://sohaailkhanportfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> <a href="mailto:user.stack64@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
 </p>
 
 </div>
@@ -27,7 +29,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack64&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
 
 
@@ -64,17 +66,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stack64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stack64&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack64&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=stack64&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=stack64&theme=github_dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stack64&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=stack64&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
 
 ---
@@ -148,12 +150,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Stack64/shortUrl-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=shortUrl-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="shortUrl-backend"/></a>
-<a href="https://github.com/Stack64/Stack64"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=Stack64&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Stack64"/></a>
-<a href="https://github.com/Stack64/Springboot-Project-based-on-Single-Service-Multi-Databases"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=Springboot-Project-based-on-Single-Service-Multi-Databases&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Springboot-Project-based-on-Single-Service-Multi-Databases"/></a>
-<a href="https://github.com/Stack64/prx-aws"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=prx-aws&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="prx-aws"/></a>
-<a href="https://github.com/Stack64/authservice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=authservice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="authservice"/></a>
-<a href="https://github.com/Stack64/myapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=myapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="myapp"/></a>
+<a href="https://github.com/Stack64/shortUrl-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=shortUrl-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="shortUrl-backend"/></a>
+<a href="https://github.com/Stack64/Stack64"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=Stack64&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Stack64"/></a>
+<a href="https://github.com/Stack64/Springboot-Project-based-on-Single-Service-Multi-Databases"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=Springboot-Project-based-on-Single-Service-Multi-Databases&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Springboot-Project-based-on-Single-Service-Multi-Databases"/></a>
+<a href="https://github.com/Stack64/prx-aws"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=prx-aws&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="prx-aws"/></a>
+<a href="https://github.com/Stack64/authservice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=authservice&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="authservice"/></a>
+<a href="https://github.com/Stack64/myapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=myapp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="myapp"/></a>
 
 </div>
 
@@ -268,7 +270,7 @@
 
 **I'm always interested in collaborating on exciting projects!**
 
-<a href="https://www.linkedin.com/in/sohaailkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:user.stack64@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+<a href="https://www.linkedin.com/in/sohaailkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://x.com/Sohaailkhann"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> <a href="https://sohaailkhanportfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> <a href="mailto:user.stack64@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
 
 📫 **Reach out** — I'd love to hear from you!
 
@@ -278,7 +280,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=120&section=footer" width="100%"/>
 
 **⭐ From [stack64](https://github.com/stack64) with ❤️**
 
