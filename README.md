@@ -33,7 +33,7 @@
 
 
 
-💼 **2+ years of experience in building scalable applications with modern Java and Spring Boot.  **
+💼 **2+ years of experience in building scalable applications with modern Java and Spring Boot.**
 
 🔭 Currently working on **[shortUrl-backend](https://github.com/Stack64/shortUrl-backend)**
 
