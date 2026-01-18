@@ -282,6 +282,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=120&section=footer" width="100%"/>
 
-**⭐ From [stack64](https://github.com/stack64) with ❤️**
+**⭐️⭐️⭐ From [stack64](https://github.com/stack64) with ❤️**
 
 </div>
