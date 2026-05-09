@@ -3,285 +3,143 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Sohail%20&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Sohail%20Khan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDE%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/stack64">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building%20scalable%20backend%20systems%20with%20Java%20%26%20Spring%20Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Backend+Engineer+%7C+2%2B+years+Java+Spring%2FBoot;Building+scalable+%26+fault-tolerant+systems;Learning+AI+Integration+%26+LLM+APIs" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Software-58a6ff?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/4+_Years-On_GitHub-58a6ff?style=for-the-badge" alt="years"/>
-  
+  <img src="https://img.shields.io/badge/Role-Software_Developer_Engineer-58a6ff?style=for-the-badge" alt="role"/>
+  <img src="https://img.shields.io/badge/Experience-2%2B_Years-58a6ff?style=for-the-badge" alt="experience"/>
+  <img src="https://img.shields.io/badge/Repositories-39-58a6ff?style=for-the-badge" alt="repos"/>
   <img src="https://komarev.com/ghpvc/?username=stack64&style=for-the-badge&color=58a6ff" alt="views"/>
 </p>
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://www.linkedin.com/in/sohaailkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://x.com/Sohaailkhann"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> <a href="https://sohaailkhan.vercel.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> <a href="mailto:user.stack64@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+<a href="https://www.linkedin.com/in/sohaailkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/Sohaailkhann"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://sohaailkhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:sohailrcp@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
+## 👨‍💻 Professional Summary
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack64&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+**Java Backend Engineer** with 2+ years of experience at **Jio Platforms** (India's largest digital ecosystem). Specialize in building **distributed systems**, **high-availability microservices**, and **event-driven architectures** at scale.
 
-
-
-💼 **2+ years of experience in building scalable applications with modern Java and Spring Boot.**
-
-🔭 Currently working on **[shortUrl-backend](https://github.com/Stack64/shortUrl-backend)**
-
-🌱 Currently learning **System Design for scalable Java microservices , Docker & containerization for backend deployments , React + Vite (building an interactive portfolio & UI experiments)  Kafka internals with JSON Schema , Java 8+ internals (Streams, Collections, HashMap, Red-Black Tree)**
-
-💬 Ask me about **Java & Spring Boot (Security 6, Sessions, Filters, JPA, Hibernate) , Production debugging & RCA (CPU spikes, DB locks, SQL optimization) ,  Dockerizing Spring Boot applications  , Nginx reverse proxy & access control , Backend–Frontend integration (Spring Boot + React)**
-
-🎓 Certifications: **Currently preparing for:   IBM Java Developer ,  Amazon Junior Software Developer**
-
-⚡ Fun fact: **I trace production issues faster than tutorials load. I turn logs → RCA → fixes before the coffee gets cold ☕**
-
-📦 **39** repositories | 👥 **5** followers
-
-<br clear="right"/>
-
-
-### 🤝 Open For
-
-<p>
-<img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge" alt="Hiring"/>
-<img src="https://img.shields.io/badge/🤝_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration"/>
-<img src="https://img.shields.io/badge/💰_Freelance-Available-orange?style=for-the-badge" alt="Freelance"/>
-
-
-</p>
-
+- 🏢 **Current:** SDE-I @ Jio Platforms (Dec 2023 – Present)
+- 🎓 **Education:** B.Tech, Information Technology | CGPA: 8.2/10
+- 📍 **Location:** Mumbai, India
+- 🎯 **Open to:** Full-time SDE roles | Freelance | Remote/Hybrid
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
+## 🛠️ Technical Skills
+
+### Core Backend
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Java (8, 11, 17, 21), Python, JavaScript, SQL, PL/SQL |
+| **Frameworks** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate |
+| **APIs & Auth** | RESTful APIs, OAuth 2.0, JWT, AES/RSA Encryption |
+| **Messaging** | Apache Kafka, Spring Kafka, Event-Driven Architecture, DLQ |
+| **Databases** | PostgreSQL, Oracle DB, MySQL, Redis (Caching) |
+| **Search** | Elasticsearch (Full-text, Geo-spatial, Query DSL) |
+| **Cloud & DevOps** | AWS (S3, EC2), Docker, Jenkins, Azure DevOps, Nginx, Git, Maven |
+| **Testing** | JUnit 5, Mockito, JMeter, Postman |
+
+### 🤖 AI Tools & Integration (Learning/Exploring)
+| Category | Tools/Concepts |
+|----------|----------------|
+| **LLM APIs** | OpenAI GPT-4o, Anthropic Claude API |
+| **Frameworks** | LangChain4j, Spring AI |
+| **Techniques** | Prompt Engineering, RAG Pipelines, Vector Search (pgvector), SSE Streaming |
+| **Tools** | GitHub Copilot, Cursor AI, ChatGPT for debugging |
+
+> 📌 *Currently building AI-integrated backend systems — embedding LLM APIs into production Java services.*
+
+---
+
+## 💼 Work Experience
+
+### **Jio Platforms Limited** — *Software Development Engineer I*
+*Dec 2023 – Present | Mumbai, India*
+
+- Built **15+ high-availability Spring Boot microservices** (25+ prod instances) for real-time GPS, geofencing, and demographic analytics
+- Designed **Apache Kafka event-driven pipeline** processing **150,000+ messages/hour** with sub-50ms consumer lag
+- Integrated **Elasticsearch** for geo-spatial search — achieved **65% faster response time** vs PostgreSQL LIKE scans
+- Optimized **PostgreSQL** (50M+ records) with range partitioning & indexing — **40% faster queries, 28% lower CPU**
+- Implemented **Hazelcast + Redis** distributed caching — reduced database load by **35%**
+- Secured APIs with **OAuth 2.0 + JWT** (Spring Security) and AES/RSA hybrid encryption
+- Delivered RetailVista analytics APIs managing **22,000+ JioMart/Ajio retail assets**
+
+---
+
+## 📁 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **[shortUrl-backend](https://github.com/Stack64/shortUrl-backend)** | Java, Spring Boot, PostgreSQL | URL shortening service with analytics |
+| **[Spring Boot Multi-Database](https://github.com/Stack64/Springboot-Project-based-on-Single-Service-Multi-Databases)** | Spring Boot, JPA, MySQL, PostgreSQL | Single service handling multiple database connections |
+| **[authservice](https://github.com/Stack64/authservice)** | Spring Security, JWT, OAuth 2.0 | Authentication & authorization microservice |
+| **[prx-aws](https://github.com/Stack64/prx-aws)** | AWS, Nginx, Docker | Reverse proxy configuration on AWS |
+| **[myapp](https://github.com/Stack64/myapp)** | React, CSS, Spring Boot | Full-stack web application |
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stack64&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack64&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack64&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=6"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=stack64&theme=github_dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </div>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stack64&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
-</div>
+---
+
+## 📚 Currently Learning
+
+| Area | Focus |
+|------|-------|
+| **System Design** | Scalable Java microservices, High Availability patterns |
+| **Docker & K8s** | Containerization, orchestration, deployment |
+| **Kafka Internals** | JSON Schema, Consumer groups, Exactly-once semantics |
+| **Java Internals** | Streams, Collections, HashMap, Red-Black Tree |
+| **AI Integration** | LLM APIs (OpenAI, Claude), RAG pipelines, Vector DBs |
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
+## 🎓 Certifications (In Progress)
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-<h3 align="center">🧪 Testing & QA</h3>
-<br/>
-<div align="center">
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit"/>
-<img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter"/>
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-<h3 align="center">💻 Development</h3>
-<br/>
-<div align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative"/>
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-<h3 align="center">⚙️ DevOps & Tools</h3>
-<br/>
-<div align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuredevops"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
-</div>
-
-</td>
-</tr>
-</table>
-
+- 🎯 IBM Java Developer Professional Certificate (Coursera)
+- 🎯 Amazon Junior Software Developer Certification
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
-
-##<div align="center">
-
-##<a href="https://github.com/Stack64/shortUrl-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=shortUrl-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="shortUrl-backend"/></a>
-##<a href="https://github.com/Stack64/Stack64"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=Stack64&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Stack64"/></a>
-##<a href="https://github.com/Stack64/Springboot-Project-based-on-Single-Service-Multi-Databases"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=Springboot-Project-based-on-Single-Service-Multi-Databases&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Springboot-Project-based-on-Single-Service-Multi-Databases"/></a>
-##<a href="https://github.com/Stack64/prx-aws"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=prx-aws&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="prx-aws"/></a>
-##<a href="https://github.com/Stack64/authservice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=authservice&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="authservice"/></a>
-##<a href="https://github.com/Stack64/myapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stack64&repo=myapp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="myapp"/></a>
-
-##</div>
-
-### 📊 Top Repositories
-
-<table>
-<thead>
-<tr>
-<th>🚀 Project</th>
-<th>📝 Description</th>
-<th>⭐ Stars</th>
-<th>🍴 Forks</th>
-<th>💻 Language</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/Stack64/shortUrl-backend"><b>shortUrl-backend</b></a></td>
-<td>Backend for ShortURL</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Stack64/Stack64"><b>Stack64</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Stack64/Springboot-Project-based-on-Single-Service-Multi-Databases"><b>Springboot-Project-based-on-Single-Service-Multi-Databases</b></a></td>
-<td>I built a Spring Boot microservice that handles multiple dat...</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Stack64/prx-aws"><b>prx-aws</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Stack64/authservice"><b>authservice</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Stack64/myapp"><b>myapp</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/CSS-gray?style=flat-square" alt="language"/></td>
-</tr>
-</tbody>
-</table>
-
-<p align="center">
-  <i>💡 Total of <b>39</b> repositories</i>
-</p>
-
-
----
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Achievements
+## 📫 Contact
 
 <div align="center">
 
-| 🏆 Achievement | 📊 Status |
-|:-------------:|:---------:|
-| 📁 25+ Repositories | ✅ Unlocked |
-| 📅 3+ Years on GitHub | ✅ Unlocked |
-| 💻 Java Expert | ✅ Unlocked |
-
-</div>
-
----
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Profile Summary
-
-<div align="center">
-
-<table>
-<tr>
-
-
-<td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-39-green?style=for-the-badge" alt="Repos"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/👥_Followers-5-purple?style=for-the-badge" alt="Followers"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📅_Years_Active-4+-orange?style=for-the-badge" alt="Years"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> Let's Connect!
-
-<div align="center">
-
-**I'm always interested in collaborating on exciting projects!**
-
-<a href="https://www.linkedin.com/in/sohaailkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://x.com/Sohaailkhann"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> <a href="https://sohaailkhanportfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> <a href="mailto:user.stack64@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
-
-📫 **Reach out** — I'd love to hear from you!
+**📧 Email:** [sohailrcp@gmail.com](mailto:sohailrcp@gmail.com)  
+**🔗 LinkedIn:** [linkedin.com/in/sohaailkhan](https://linkedin.com/in/sohaailkhan)  
+**🌐 Portfolio:** [sohaailkhan.vercel.app](https://sohaailkhan.vercel.app)  
+**🐙 GitHub:** [github.com/Stack64](https://github.com/Stack64)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=120&section=footer" width="100%"/>
-
-**⭐️⭐️⭐ From [stack64](https://github.com/stack64) with ❤️**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
+  <sub>⭐️ Built with ❤️ by Sohail Khan</sub>
 </div>
