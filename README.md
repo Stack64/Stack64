@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/stack64">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Backend+Engineer+%7C+2%2B+years+Java+Spring%2FBoot;Building+scalable+%26+fault-tolerant+systems;Learning+AI+Integration+%26+LLM+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Backend+Engineer+%7C+3%2B+years+Java+Spring%2FBoot;Building+scalable+%26+fault-tolerant+systems;Learning+AI+Integration+%26+LLM+APIs" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
