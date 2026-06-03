@@ -32,7 +32,7 @@
 
 ## 👨‍💻 Professional Summary
 
-**Java Backend Engineer** with 2+ years of experience at **Jio Platforms** (India's largest digital ecosystem). Specialize in building **distributed systems**, **high-availability microservices**, and **event-driven architectures** at scale.
+**Java Backend Engineer** with 3+ years of experience at **Jio Platforms** (India's largest digital ecosystem). Specialize in building **distributed systems**, **high-availability microservices**, and **event-driven architectures** at scale.
 
 - 🏢 **Current:** SDE-I @ Jio Platforms (Dec 2023 – Present)
 - 🎓 **Education:** B.Tech, Information Technology | CGPA: 8.2/10
